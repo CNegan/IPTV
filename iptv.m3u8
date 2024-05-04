@@ -27,30 +27,6 @@ http://112.89.121.23:80/PLTV/88888973/224/3221225742/100001000000000600000000003
 http://112.89.121.23:80/PLTV/88888973/224/3221225740/10000100000000060000000000334546_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7810,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowlLW+9H8/Cw+LdiLmahQz2w:20181110091937,END&GuardEncType=2
 #EXTINF:-1 tvg-id="cctv15" tvg-name="CCTV 15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视频道",CCTV 15 
 http://8.218.11.245:91/api/channel/xoy8s/cctv15.m3u8
-#EXTINF:-1 tvg-id="cctv16" tvg-name="CCTV 16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视频道",CCTV 16 
-http://8.218.11.245:91/api/channel/xoy8s/cctv16.m3u8
-#EXTINF:-1 tvg-id="cctv17" tvg-name="CCTV 17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视频道",CCTV 17 
-http://8.218.11.245:91/api/channel/xoy8s/cctv17.m3u8
-#EXTINF:-1 tvg-id="cctv4k" tvg-name="CCTV 4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视频道",CCTV 4K 
-http://8.218.11.245:91/api/channel/xoy8s/cctv4k.m3u8
-#EXTINF:-1 tvg-id="cctv164k" tvg-name="CCTV16 4K" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视频道",CCTV16 4K 
-http://8.218.11.245:91/api/channel/xoy8s/cctv164k.m3u8
-#EXTINF:-1 tvg-id="cctvdl" tvg-name="CCTV世界地理" tvg-logo="https://epg.112114.xyz/logo/世界地理.png" group-title="央视频道",CCTV世界地理 
-http://8.218.11.245:91/api/channel/xoy8s/cctvdl.m3u8
-#EXTINF:-1 tvg-id="cctvbq" tvg-name="CCTV兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="央视频道",CCTV兵器科技 
-http://8.218.11.245:91/api/channel/xoy8s/cctvbq.m3u8
-#EXTINF:-1 tvg-id="cctvnxss" tvg-name="CCTV女性时尚" tvg-logo="https://epg.112114.xyz/logo/女性时尚.png" group-title="央视频道",CCTV女性时尚 
-http://8.218.11.245:91/api/channel/xoy8s/cctvnxss.m3u8
-#EXTINF:-1 tvg-id="cctvhjjc" tvg-name="CCTV怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场 
-http://8.218.11.245:91/api/channel/xoy8s/cctvhjjc.m3u8
-#EXTINF:-1 tvg-id="cctvdyjc" tvg-name="CCTV第一剧场" tvg-logo="https://epg.112114.xyz/logo/第一剧场.png" group-title="央视频道",CCTV第一剧场 
-http://8.218.11.245:91/api/channel/xoy8s/cctvdyjc.m3u8
-#EXTINF:-1 tvg-id="cctvfyjc" tvg-name="CCTV风云剧场" tvg-logo="https://epg.112114.xyz/logo/风云剧场.png" group-title="央视频道",CCTV风云剧场 
-http://8.218.11.245:91/api/channel/xoy8s/cctvfyjc.m3u8
-#EXTINF:-1 tvg-id="cctvfyyy" tvg-name="CCTV风云音乐" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png" group-title="央视频道",CCTV风云音乐 
-http://8.218.11.245:91/api/channel/xoy8s/cctvfyyy.m3u8
-#EXTINF:-1 tvg-id="cctvgefwq" tvg-name="CCTV高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="央视频道",CCTV高尔夫网球 
-http://8.218.11.245:91/api/channel/xoy8s/cctvgefwq.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/湖南卫视" tvg-id="湖南卫视" tvg-name="湖南卫视",湖南卫视 高清
 http://112.89.121.21:80/PLTV/88888973/224/3221225716/10000100000000060000000000334645_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7859,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowmYFxT4GHZGgEnkV4czc5R/:20181110091937,END&GuardEncType=2
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/浙江卫视" tvg-id="浙江卫视" tvg-name="浙江卫视",浙江卫视 高清
